@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# ZenMnky Profile 2020.02.14
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+💡 I've got some ideas for how I want to revamp my portfolio.  
+🎨 This is where get to play with those ideas.
+<br />
+<br />
 
-## Available Scripts
+🤔 💭 Guiding Thoughts
+- I know I want the UI to feel **polished**.     
+- I'd like it to be **sincere, humble, and honest**.  
+- I'd like it to be **beautiful, yet stripped-down and unpretentious**.   
+- I'd like it to **tell stories** about what I've learned, what I'm learning and what I'm up to, and maybe something about where I'm going - what's the dream that motivates me?
+<br />
+<br />
 
-In the project directory, you can run:
+🤔 💭 More specific thoughts & inspiration
+- I'd like **a nice nav** bar that transforms into a drop down for smaller screens. Something like [this](https://www.youtube.com/watch?v=IF6k0uZuypA)
+- I like the vision of having projects displayed in **[device mockups](https://smartmockups.com/mockups/multiple-devices?filter=free)**, like what's seen in this [portfolio](https://richardscott.netlify.app/)
+- I love the feel and the **stories** of [this portfolio](https://www.juliacodes.com/)
 
-### `npm start`
+👨‍💻 The Tech     
+_start simple, then add layers of complexity_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Start simply:
+- I'm developing this in a **Linux** Virtual Machine.
+- I'm going to focus on keeping this a front-end app, using **React.js** and **JavaScript**. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Then add layers of complexity:
+- I _may_ play around with integrating a CSS library, like **Tailwind**, but to start I'll keep it simple and use standard CSS
+- I'd like to add some elements of fluidity/dynamism to the site, so I _may_ try out **[react-spring](https://www.react-spring.io/)** physics library
+- I haven't explored **React hooks** much, so if there is a need, I _may_ do that here
