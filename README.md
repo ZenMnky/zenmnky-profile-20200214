@@ -29,3 +29,7 @@ Then add layers of complexity:
 - I _may_ play around with integrating a CSS library, like **Tailwind**, but to start I'll keep it simple and use standard CSS
 - I'd like to add some elements of fluidity/dynamism to the site, so I _may_ try out **[react-spring](https://www.react-spring.io/)** physics library
 - I haven't explored **React hooks** much, so if there is a need, I _may_ do that here
+
+<br />
+
+![dev in a v.m.](https://i.ibb.co/wyKGKPR/Virtual-Box-kali-14-02-2021-13-09-54.png)
